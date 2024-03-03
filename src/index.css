@@ -38,3 +38,8 @@ img {
   display: block;
   object-fit: cover;
 }
+
+section {
+  padding: 6.25rem 2.5rem;
+  border: 1px solid red;
+}
