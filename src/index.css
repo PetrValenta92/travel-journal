@@ -40,6 +40,11 @@ img {
 }
 
 section {
-  padding: 6.25rem 2.5rem;
+  padding: 1rem 2.5rem;
   border: 1px solid red;
+}
+
+h1 {
+  font-size: 1.625rem;
+  font-weight: 700;
 }
