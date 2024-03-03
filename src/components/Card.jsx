@@ -1,8 +1,11 @@
+import capeVerde from "../images/capeVerde.jpg";
 import pinIcon from "../images/pin.svg";
+
 
 export default function Card() {
     return (
         <div className="card">
+            <img className="card_photo" src= { capeVerde } alt="Sand beach with trees" />
             <div className="card__destination">
                 <img src= { pinIcon } alt="Pin icon" />
                 <p>Cape Verde</p>
