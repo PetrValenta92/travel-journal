@@ -3,7 +3,7 @@ export default [
         id: 1,
         title: "Plitvice Lakes",
         location: "Croatia",
-        googleMapsUrl: "https://maps.app.goo.gl/4b2hxgM8xesjskGN7",
+        googleMapsUrl: "https://maps.app.goo.gl/kBXRXPJMujNMfM4Q9",
         startDate: "Aug 25, 2018",
         endDate: "Sep 01, 2018",
         description: "Our first holiday together! Plitvice Lakes Nation Park is one of the oldest and largest national parks in Croatia. In 1979, was the park inscribed on the UNESCO World Heritage list.",
@@ -17,7 +17,7 @@ export default [
         googleMapsUrl: "https://maps.app.goo.gl/EkYeTA5QyEfuKjWc9",
         startDate: "Sep 25, 2019",
         endDate: "Oct 05, 2019",
-        description: "Our honeymoon! This small town is situated on the Sal island which is full of sand and salt. Even so this place with endless beaches and clear ocean.",
+        description: "Our honeymoon! This small town is situated on the Sal island which is full of sand and salt. Even so, this place is full of endless beaches and clear ocean.",
         imageUrl: "https://images.unsplash.com/photo-1545170355-c5bcdba0035e?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         imageAlt: "Ocean coast with rocks"
     },
