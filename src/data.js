@@ -1,11 +1,36 @@
 export default [
     {
-        title: "Mount Fuji",
-        location: "Japan",
-        googleMapsUrl: "https://goo.gl/maps/1DGM5WrWnATgkSNB8",
-        startDate: "12 Jan, 2021",
-        endDate: "24 Jan, 2021",
-        description: "Mount Fuji is the tallest mountain in Japan, standing at 3,776 meters (12,380 feet). Mount Fuji is the single most popular tourist site in Japan, for both Japanese and foreign tourists.",
-        imageUrl: "https://source.unsplash.com/WLxQvbMyfas"
+        id: 1,
+        title: "Plitvice Lakes",
+        location: "Croatia",
+        googleMapsUrl: "https://maps.app.goo.gl/4b2hxgM8xesjskGN7",
+        startDate: "Aug 25, 2018",
+        endDate: "Sep 01, 2018",
+        description: "Our first holiday together! Plitvice Lakes Nation Park is one of the oldest and largest national parks in Croatia. In 1979, was the park inscribed on the UNESCO World Heritage list.",
+        imageUrl: "https://images.unsplash.com/photo-1589312133722-eab40c686ebb?q=80&w=1959&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        imageAlt: "Lake with waterfalls and trees"
+    },
+    {
+        id: 2,
+        title: "Santa Maria",
+        location: "Cape Verde",
+        googleMapsUrl: "https://maps.app.goo.gl/EkYeTA5QyEfuKjWc9",
+        startDate: "Sep 25, 2019",
+        endDate: "Oct 05, 2019",
+        description: "Our honeymoon! This small town is situated on the Sal island which is full of sand and salt. Even so this place with endless beaches and clear ocean.",
+        imageUrl: "https://images.unsplash.com/photo-1545170355-c5bcdba0035e?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        imageAlt: "Ocean coast with rocks"
+    },
+    {
+        id: 3,
+        title: "Bohemian Paradise",
+        location: "Czechia",
+        googleMapsUrl: "https://maps.app.goo.gl/7B7K35vrcDSdoXnM9",
+        startDate: "Aug 14, 2022",
+        endDate: "Aug 20, 2022",
+        description: "Our first holiday in three! Bohemian Paradase is a Protected Landscape Area and a region in Bohemia in the Czech Republic. It was declared in 1955, as the first nature reserve in the country.",
+        imageUrl: "https://images.unsplash.com/photo-1595165492928-de6006910ada?q=80&w=1935&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        imageAlt: "Ocean coast with rocks"
     }
+
 ]
