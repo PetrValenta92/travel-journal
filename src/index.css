@@ -1,5 +1,5 @@
 :root {
-  font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  font-family: "Inter", sans-serif;
   line-height: 1.5;
   font-weight: 400;
 
@@ -41,7 +41,6 @@ img {
 
 section {
   padding: 1rem 2.5rem;
-  border: 1px solid red;
 }
 
 h1 {
